@@ -10,6 +10,7 @@ function MovieList() {
         rating={8.8}
         available={true}
         popular={true}
+        duration={120}
       />
       <MovieCard
         title="Toy Story"
@@ -17,6 +18,7 @@ function MovieList() {
         rating={8.3}
         available={false}
         popular={false}
+        duration={110}
       />
       <MovieCard
         title="Parasite"
@@ -24,6 +26,7 @@ function MovieList() {
         rating={8.5}
         available={true}
         popular={false}
+        duration={100}
       />
       <MovieCard
         title="Up"
@@ -31,6 +34,7 @@ function MovieList() {
         rating={8.2}
         available={true}
         popular={false}
+        duration={150}
       />
     </section>
   );
