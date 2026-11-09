@@ -3,7 +3,7 @@ import MovieCard from "./MovieCard.jsx";
 function MovieList() {
   return (
     <section>
-      <h2>הסרטים שלנו</h2>
+      <h2> הסרטים שלנו</h2>
       <MovieCard
         title="Inception"
         year={2010}
